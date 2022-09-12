@@ -21,7 +21,7 @@
 <div align="center"><br>
  📱 contatos
   <div align="center">
-    <img align="center" href="https://www.instagram.com/edberto.s.f/" alt="Ed-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href="https://www.instagram.com/edberto.s.f/"><img align="center" alt="Ed-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <img align="center" href="https://www.linkedin.com/in/edberto-santos-01162121a/" alt="Ed-linke" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <img align="center" alt="Ed-DS" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     <img align="center" href="(81)99645-8059"alt="Ed-ZAP" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
