@@ -1,8 +1,8 @@
 ### Eae, me chamo José Edberto  👋
 
-- 🔭 focando em: Front-End 
-- 🌱 Estudando: Html/CSS/JavaScript
-- ⚡ Fato engraçado: pareço ser mais velho do q realmente sou
+-Acesse para me conhecer um pouco melhor: https://edbertosantos.github.io/edberto_portifolio_react/
+
+- 🌱 Estudando: Python, Ciencia de dados e I.A
 
  <div align="center">
   <a href="https://github.com/EdbertoSantos">
